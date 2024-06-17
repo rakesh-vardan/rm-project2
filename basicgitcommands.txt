@@ -1,0 +1,3 @@
+git ls-remote --get-url origin -> to retrieve the remote origin url
+
+git push --set-upstream origin feature  -> It creates a feature branch at remote repo and the pushes the code
